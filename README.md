@@ -1,4 +1,4 @@
-#Simple Todo App
+# Simple Todo App
 
 You can:
   - see tasks
@@ -9,5 +9,5 @@ You can:
   - filter tasks active or done
 
 ## build
-  npm run build - to build
-  npm start - to start server (port 8080)
+  - npm run build - to build
+  - npm start - to start server (port 8080)
