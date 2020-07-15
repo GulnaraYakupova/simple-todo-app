@@ -1,5 +1,7 @@
 # Simple Todo App
 
+## <a href='https://gulnara-yakupova-todoapp.herokuapp.com/'>Click to see the hosting project</a>
+
 You can:
   - see tasks
   - add new tasks
