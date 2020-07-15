@@ -1,0 +1,12 @@
+.todo-item {
+  cursor: pointer;
+}
+
+.todo-item--done {
+  text-decoration: line-through;
+}
+
+.todo-item--important {
+  color: cornflowerblue;
+  font-weight: 700;
+}

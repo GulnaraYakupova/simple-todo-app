@@ -1,0 +1,12 @@
+.app {
+  background-color: rgb(247, 248, 250);
+  max-width: 560px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 30px 30px;
+}
+
+.app__search-filter {
+  display: flex;
+  justify-content: space-between;
+}

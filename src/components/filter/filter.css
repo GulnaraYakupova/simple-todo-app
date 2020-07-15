@@ -1,0 +1,27 @@
+.filter {
+  width: 37%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter__button {
+  cursor: pointer;
+  padding: 7px;
+  border: 1px solid grey;
+  width: 33%;
+  border-radius: 5px;
+  background-color: transparent;
+  color: grey
+}
+
+.filter__button:hover {
+  color: white;
+  background-color: grey;
+} 
+
+.filter__button--active, 
+.filter__button--active:hover {
+  background-color: green;
+  border: none;
+  color: white;
+}
