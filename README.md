@@ -1,6 +1,6 @@
 # Simple Todo App
 
-## <a href='https://gulnara-yakupova-todoapp.herokuapp.com/'>Click to see the project</a>
+Open online [https://gulnara-yakupova-todo.herokuapp.com/](https://gulnara-yakupova-todo.herokuapp.com/)
 
 You can:
   - see tasks
